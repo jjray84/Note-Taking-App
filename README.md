@@ -41,7 +41,7 @@ No license was selected for this repository.
 
 
 ## Live-link     
-
+[Click Here](https://jjray84.github.io/Note-Taking-App/)
 
 
 
