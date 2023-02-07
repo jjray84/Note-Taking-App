@@ -23,7 +23,7 @@ In order to use this application, please right click on server.js, and select th
 * npm i
 * node server.js          
 
-Once both the npm has been installed, as well as the server is running, please type into your browser: localhost:3001. You will be presented with a page with a button that can be clicked that is labelled at Get Started.            
+Once both the npm has been installed, as well as the server is running, please type into your browser: localhost:3001. You will be presented with a page with a button that can be clicked that is labelled as Get Started.            
 Once you have clicked the Get Started button, you will be taken to the notes page where you will be able to add notes.  These notes will need a title, as well as a body.  Once the information is input, click the save icon at the top right of the page.  Once clicked, the note will populate on the left side of the page.    
 If you would like to delete a note, simply click on the small red trashcan icon next to the note that is stored on the left side of the page.     
 
@@ -40,10 +40,11 @@ No license was selected for this repository.
 ![Screenshot](./Develop/public/assets/images/localhost_3001_notes.png)
 
 
-## Live Link
+## Live Link via Local Host
 Click here if you would like to use your local host to view the page.
-[Live-Link](http://localhost:3001/)    
-           
+[Live-Link](http://localhost:3001/)       
+
+## Live Link via Heroku           
 Click here for the Heroku Live Link
 [Heroku]
 
