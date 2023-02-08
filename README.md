@@ -36,8 +36,8 @@ If you would like to delete a note, simply click on the small red trashcan icon 
 No license was selected for this repository.     
 
 ## Screenshot
-![Screenshot](./Develop/public/assets/images/localhost_3001_.png)
-![Screenshot](./Develop/public/assets/images/localhost_3001_notes.png)
+![Screenshot](./public/assets/images/localhost_3001_.png)
+![Screenshot](./public/assets/images/localhost_3001_notes.png)
 
 ## Live Link via Local Host
 Click here if you would like to use your local host to view the page.
