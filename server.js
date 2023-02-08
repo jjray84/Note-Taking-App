@@ -4,7 +4,7 @@ const path = require('path'); // Required to write items to the db.json file
 const fs = require('fs');
 const {v4: uuid} = require('uuid'); // Requires the uuid npm package to create a unique id that can be used to delete items from the array of objects from db.json
 
-const PORT = 3001; // The required PORT for using this application
+const PORT = process.env.PORT || 3200 // The required PORT for using this application
 const dbPath = path.join('db', 'db.json'); 
 let notes = fs.readFileSync(dbPath, {encoding: 'UTF8'}); 
 notes = JSON.parse(notes);

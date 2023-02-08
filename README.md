@@ -45,7 +45,7 @@ Click here if you would like to use your local host to view the page.
 
 ## Live Link via Heroku           
 Click here for the Heroku Live Link
-[Heroku]
+[Heroku](https://jjray84-note-taking-app.herokuapp.com/)
 
 
 ## GitHub Repository
