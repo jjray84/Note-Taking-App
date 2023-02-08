@@ -39,7 +39,6 @@ No license was selected for this repository.
 ![Screenshot](./Develop/public/assets/images/localhost_3001_.png)
 ![Screenshot](./Develop/public/assets/images/localhost_3001_notes.png)
 
-
 ## Live Link via Local Host
 Click here if you would like to use your local host to view the page.
 [Live-Link](http://localhost:3001/)       
